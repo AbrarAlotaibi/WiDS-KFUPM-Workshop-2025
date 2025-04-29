@@ -1,0 +1,2 @@
+# WiDS-KFUPM-Workshop-2025
+Presentation and Codes for the 'ACCELERATING ENGINEERING RESEARCH WITH ADVANCED LLM TECHNIQUES' workshop held at WiDS @ KFUPM May,1st 2025.
